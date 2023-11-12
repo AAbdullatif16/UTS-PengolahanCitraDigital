@@ -3,7 +3,7 @@
 <b> NIM  : 2106145   </b> </br>
 
 <b> KESIMPULAN <b/> </br>
-Terdapat beberapa kesalahan dalam kode nya, yang sudah diperbaiki: Kode1: Memperbaiki kode yang sebelumnya cv2.imshow menjadi cv2_imshow agar sesuai dengan kode yang ada di Google Colab. </br>
+Terdapat beberapa kesalahan dalam kode nya, yang sudah diperbaiki: </br>
 Kode1: Memperbaiki kode yang sebelumnya cv2.imshow menjadi cv2_imshow agar sesuai dengan kode yang ada di Google Colab. </br>
 Kode4: Dengan mengoreksi kesalahan pada fungsi show() menjadi plt.show(), sekarang kode ini dapat menampilkan histogram dengan benar saat melakukan operasi pada array NumPy menggunakan Matplotlib.</br>
 Kode6: Setelah kesalahan penamaan pada variabel (histogr menjadi histogram) diperbaiki, dan penggunaan variabel saat plotting histogram disesuaikan, sehingga konsistensi kode terjaga dan dapat dijalankan dengan benar.</br>
